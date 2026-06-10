@@ -1,5 +1,7 @@
 # AutoCarExpress
-
+---
+NOTA: El proyecto completo no pudo ser subido al repositorio por cuestiones de tamaño y cantidad de archivos, es por ello, que solo se anexa la documentación respectiva, las capturas y la BD de dicho proyecto.
+---
 ## Descripción del Proyecto
 
 AutoCarExpress es una plataforma web desarrollada para facilitar la compra y venta de vehículos usados. El sistema permite a los usuarios registrarse, iniciar sesión, publicar automóviles, explorar vehículos disponibles, consultar información detallada de cada publicación y guardar vehículos favoritos.
