@@ -71,7 +71,7 @@ Antes de ejecutar el proyecto es necesario tener instalado:
 ```bash
 git clone https://github.com/usuario/AutoCarExpress.git
 ```
-
+'''
 ### 2. Ingresar al directorio del proyecto
 
 ```bash
